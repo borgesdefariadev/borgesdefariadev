@@ -1,4 +1,4 @@
-Front-end | Back-end Developer. ⥤ **HTML, CSS, JavaScript, NodeJS, ReactJS, TypeScript, TailwindCSS.**
+Front-end | Back-end Developer. ⥤ **HTML, CSS, JavaScript, NodeJS, C#, ReactJS, TypeScript, TailwindCSS.**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="borges-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
