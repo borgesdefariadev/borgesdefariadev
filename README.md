@@ -1,4 +1,4 @@
-FullStack Developer === 
+=== FullStack Developer 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="borges-NODE" height="30" width="40" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">  
